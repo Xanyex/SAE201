@@ -177,7 +177,7 @@ INSERT INTO Adherant VALUES ('163', 'Carter', 'Thomas', '1996-02-16', 'Tanger Bl
 INSERT INTO Adherant VALUES ('164', 'Hoover', 'Harry', '1974-10-11', 'Grandview Drive', 'Atlanta', '33.7489954', '-84.3879824', 'Colorado', '06 79 24 74 74');
 INSERT INTO Adherant VALUES ('165', 'Adams', 'Benjamin', '1955-03-06', 'Corona Del Mar', 'Hartford', '41.763711', '-72.685093', 'Connecticut', '06 81 67 21 50');
 INSERT INTO Adherant VALUES ('166', 'Pierce', 'Rutherford', '1976-01-20', 'Tully Road East', 'Albany', '42.652579', '-73.756232', 'North Dakota', '06 61 55 22 49');
-INSERT INTO Adherant VALUES ('167', 'Truman', 'Zachary', '1998-06-20', 'Timberlane Drive', 'Saint Paul', '44.953703', '-93.089958', 'Arkansas', '05 61 42 55 24/ 07 61 25 78 37');
+INSERT INTO Adherant VALUES ('167', 'Truman', 'Zachary', '1998-06-20', 'Timberlane Drive', 'Saint Paul', '44.953703', '-93.089958', 'Arkansas', '05 61 42 55 24');
 INSERT INTO Adherant VALUES ('168', 'Garfield', 'Woodrow', '1931-11-13', 'Castillo Drive', 'Providence', '41.823989', '-71.412834', 'Minnesota', NULL);
 INSERT INTO Adherant VALUES ('169', 'Clinton', 'Chester', '1931-05-19', 'Calle Real', 'Santa Fe', '35.686975', '-105.937799', 'Alaska', NULL);
 INSERT INTO Adherant VALUES ('170', 'Monroe', 'Ronald', '1988-03-29', 'Harry S Truman Blvd', 'Concord', '37.977978', '-122.031073', 'Arkansas', NULL);
